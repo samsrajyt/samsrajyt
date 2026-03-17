@@ -32,7 +32,7 @@ I specialize in bridging the gap between development and operations. With a stro
 
 - 🔭 **In Progress:** Learning & Improving my skills [90DaysOfDevops](https://github.com/samsrajyt/90DaysOfDevOps).
 - 🌱 **Growth:** Currently mastering Docker and Kubernetes.Always learning about emerging technologies and best practices
-- 💬 **Collaboration:** Reach out to collaborate to any open source Devops projects and and DevOps initiatives.
+- 💬 **Collaboration:** Reach out to collaborate to any open source Devops projects and DevOps initiatives.
 
 ---
 
